@@ -21,8 +21,8 @@ body {
   background-color: var(--light-grey);
   color: var(--dark-grey);
   margin: 0;
-  padding: 120px 0rem 4rem 0rem;
-  max-width: 600px;
+  padding: 120px 1.5rem 4rem 1.5rem;
+  max-width: 640px;
   margin: 0 auto;
   line-height: 1.4;
 }
