@@ -21,7 +21,7 @@ body {
   background-color: var(--light-grey);
   color: var(--dark-grey);
   margin: 0;
-  padding: 120px 1.5rem 4rem 1.5rem;
+  padding: 120px 1rem 4rem 1rem;
   max-width: 640px;
   margin: 0 auto;
   line-height: 1.4;
@@ -231,4 +231,11 @@ section {
   flex: 1;
   text-align: right;
   color: var(--more-grey);
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    padding-top: 96px;
+  }
+
 }
